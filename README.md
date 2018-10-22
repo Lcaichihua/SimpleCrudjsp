@@ -1,6 +1,5 @@
 # SimpleCrudjsp
-crud-jsp-servlet-materialize </br>
-- Web CRUD Example using.
+Web CRUD Example using </br>
  - jee (JSP).
  - Servlet.
  - materialize 1.0.0.

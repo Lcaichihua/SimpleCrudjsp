@@ -1,8 +1,8 @@
 # SimpleCrudjsp
 Web CRUD Example using </br>
- - jee (JSP).
+ - JEE (JSP).
  - Servlet.
- - materialize 1.0.0.
+ - Materialize 1.0.0.
  - MYSQL.
  
  Demo  </br>
